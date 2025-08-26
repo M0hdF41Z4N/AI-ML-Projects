@@ -37,7 +37,7 @@ This ensures that you have a clean environment with the necessary dependencies i
 
 1. Clone this repository to your local machine and go to the project directory.
 ```bash
-git clone https://github.com/KelvinPuyam/Hand-Gesture-Recognition.git
+git clone https://github.com/M0hdF41Z4N/AI-ML-Projects/tree/main/Hand-Gesture-Recognition
 ```
 ```bash
 cd Hand-Gesture-Recognition
@@ -79,4 +79,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/KelvinPuyam/Hand-Gesture-Recognition/blob/main/LICENSE).
+This project is licensed under the [MIT License]
